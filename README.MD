@@ -39,9 +39,11 @@ Aplicación web para la **gestión de servicios de spa y bienestar**.
   <img src="https://github-readme-stats.vercel.app/api?username=AdolfoLecompteDev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E0E0E0&icon_color=BD93F9&ring_color=00FF9F" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdolfoLecompteDev&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E0E0E0" height="180"/>
 </p>
+
 ---
 ### 🌍 Conecta conmigo  
 📫 **Correo:** [adolfo.lecompte@gmail.com](mailto:adolfo.lecompte@gmail.com)  
 🔗 **LinkedIn:** [Adolfo Manuel Lecompte Velásquez](https://www.linkedin.com/in/adolfo-manuel-lecompte-velasquez-671830340/)  
 ---
+
 💬 *"Aprender a programar no es solo escribir código, es aprender a pensar diferente."*
