@@ -10,16 +10,16 @@
 
 ---
 
-### 🧠 Sobre mí  
+### :mag: Sobre mí  
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="20" height="20" /> He desarrollado **aplicativos web** y proyectos de **Machine Learning** centrados en el análisis de datos.  
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" alt="Search" width="20" height="20" /> Me interesa cómo la **IA y la automatización** pueden mejorar los procesos y la experiencia del usuario.  
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Puzzle%20Piece.png" alt="Puzzle" width="20" height="20" /> Tengo bases sólidas en **lógica de programación**, **estructuras de datos** y **diseño de software**.  
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="20" height="20" /> Actualmente profundizo en **Python, Java, JavaScript, Astro y Unity**.  
+- :computer: He desarrollado **aplicativos web** y proyectos de **Machine Learning** centrados en el análisis de datos.  
+- :mag: Me interesa cómo la **IA y la automatización** pueden mejorar los procesos y la experiencia del usuario.  
+- :gear: Tengo bases sólidas en **lógica de programación**, **estructuras de datos** y **diseño de software**.  
+- :seedling: Actualmente profundizo en **Python, Java, JavaScript, Astro y Unity**.  
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" /> Tecnologías y Herramientas  
+### :wrench: Tecnologías y Herramientas  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -38,7 +38,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" height="25" /> Proyectos Destacados  
+### :book: Proyectos Destacados  
 
 <table>
 <tr>
@@ -73,7 +73,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="25" height="25" /> Estadísticas de GitHub  
+### :chart_with_upwards_trend: Estadísticas de GitHub  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AdolfoLecompteDev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E0E0E0&icon_color=BD93F9&ring_color=00FF9F" height="180" alt="GitHub Stats"/>
@@ -103,8 +103,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing" width="20" height="20" />
-  <i>"Aprender a programar no es solo escribir código, es aprender a pensar diferente."</i>
+  :pencil2: <i>"Aprender a programar no es solo escribir código, es aprender a pensar diferente."</i>
 </p>
 
 <p align="center">
