@@ -10,16 +10,16 @@
 
 ---
 
-### :mag: Sobre mí  
+### <img src="https://img.icons8.com/dotty/40/ffffff/user.png" alt="User" width="25" height="25" /> Sobre mí  
 
-- :computer: He desarrollado **aplicativos web** y proyectos de **Machine Learning** centrados en el análisis de datos.  
-- :mag: Me interesa cómo la **IA y la automatización** pueden mejorar los procesos y la experiencia del usuario.  
-- :gear: Tengo bases sólidas en **lógica de programación**, **estructuras de datos** y **diseño de software**.  
-- :seedling: Actualmente profundizo en **Python, Java, JavaScript, Astro y Unity**.  
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/laptop.svg" alt="Laptop" width="20" height="20" style="vertical-align: middle;"> He desarrollado **aplicativos web** y proyectos de **Machine Learning** centrados en el análisis de datos.  
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/search.svg" alt="Search" width="20" height="20" style="vertical-align: middle;"> Me interesa cómo la **IA y la automatización** pueden mejorar los procesos y la experiencia del usuario.  
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/puzzle.svg" alt="Puzzle" width="20" height="20" style="vertical-align: middle;"> Tengo bases sólidas en **lógica de programación**, **estructuras de datos** y **diseño de software**.  
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/plantuml.svg" alt="Plant" width="20" height="20" style="vertical-align: middle;"> Actualmente profundizo en **Python, Java, JavaScript, Astro y Unity**.  
 
 ---
 
-### :wrench: Tecnologías y Herramientas  
+### <img src="https://img.icons8.com/dotty/40/ffffff/tools.png" alt="Tools" width="25" height="25" /> Tecnologías y Herramientas  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -38,7 +38,7 @@
 
 ---
 
-### :book: Proyectos Destacados  
+### <img src="https://img.icons8.com/dotty/40/ffffff/book.png" alt="Book" width="25" height="25" /> Proyectos Destacados  
 
 <table>
 <tr>
@@ -73,7 +73,7 @@
 
 ---
 
-### :chart_with_upwards_trend: Estadísticas de GitHub  
+### <img src="https://img.icons8.com/dotty/40/ffffff/increase.png" alt="Chart" width="25" height="25" /> Estadísticas de GitHub  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AdolfoLecompteDev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E0E0E0&icon_color=BD93F9&ring_color=00FF9F" height="180" alt="GitHub Stats"/>
@@ -103,7 +103,8 @@
 ---
 
 <p align="center">
-  :pencil2: <i>"Aprender a programar no es solo escribir código, es aprender a pensar diferente."</i>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/pencil.svg" alt="Pencil" width="20" height="20" style="vertical-align: middle;">
+  <i>"Aprender a programar no es solo escribir código, es aprender a pensar diferente."</i>
 </p>
 
 <p align="center">
