@@ -15,7 +15,7 @@
 - 💻 He desarrollado **aplicativos web** y proyectos de **Machine Learning** centrados en el análisis de datos.  
 - 🔎 Me interesa cómo la **IA y la automatización** pueden mejorar los procesos y la experiencia del usuario.  
 - 🧩 Tengo bases sólidas en **lógica de programación**, **estructuras de datos** y **diseño de software**.  
-- 🌱 Actualmente profundizo en **Python, Java, JavaScript, Astro y Unity**.  
+- 🌱 Actualmente profundizo en **Python, Astro y Godot**.  
 
 ---
 
