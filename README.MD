@@ -1,25 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=¡Hola!+Soy+Adolfo+Lecompte;Desarrollador+de+Software;AI+%26+Data+Enthusiast" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Estudiante-SENA-00D9FF?style=flat-square&logo=googlescholar&logoColor=white" alt="SENA"/>
-  <img src="https://img.shields.io/badge/Enfoque-IA%20%26%20Data-BD93F9?style=flat-square&logo=tensorflow&logoColor=white" alt="AI & Data"/>
-  <img src="https://img.shields.io/badge/Desarrollo-Web-00FF9F?style=flat-square&logo=react&logoColor=white" alt="Web Dev"/>
-</p>
-
----
-
-### 🗿 Sobre mí  
-
-- 💻 He desarrollado **aplicativos web** y proyectos de **Machine Learning** centrados en el análisis de datos.  
-- 🔎 Me interesa cómo la **IA y la automatización** pueden mejorar los procesos y la experiencia del usuario.  
-- 🧩 Tengo bases sólidas en **lógica de programación**, **estructuras de datos** y **diseño de software**.  
-- 🌱 Actualmente profundizo en **Python, Astro y Godot**.  
-
----
-
-### 🛠️ Tecnologías y Herramientas  
+---  
 
 <p align="center">
   <img src="https://img.shields.io/badge/MCP-Connector-orange?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP"/>
@@ -43,8 +22,6 @@
 
 ---
 
-### 🎖️ Proyectos Destacados 
-
 <table>
 <tr>
 <td width="50%">
@@ -63,8 +40,6 @@
 
 ---
 
-### 📈 Estadísticas de GitHub  
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AdolfoLecompteDev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E0E0E0&icon_color=BD93F9&ring_color=00FF9F" height="180" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdolfoLecompteDev&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E0E0E0" height="180" alt="Top Languages"/>
@@ -75,8 +50,6 @@
 </p>
 
 ---
-
-### 📎 Conecta conmigo  
 
 <p align="center">
   <a href="mailto:adolfo.lecompte@gmail.com">
