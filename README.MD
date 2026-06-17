@@ -62,10 +62,4 @@
 
 ---
 
-<p align="center">
-  ✍️ <i>"Aprender a programar no es solo escribir código, es aprender a pensar diferente."</i>
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdolfoLecompteDev&label=Visitas%20al%20perfil&color=00D9FF&style=flat-square" alt="Profile views"/>
-</p>
