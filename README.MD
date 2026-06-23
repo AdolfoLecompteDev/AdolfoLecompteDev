@@ -19,27 +19,7 @@
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="LINUX"/>
 </p>
-
 ---
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">SenaSoft 2025</h3>
-<div align="center">
-<a href="https://github.com/AdolfoLecompteDev/SenaSoft_2025" target="_blank"><img src="https://img.shields.io/badge/VER_PROYECTO-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Ver Proyecto"></a>
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/ML-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="ML"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-</p>
-<p>Proyecto orientado a la <strong>resolución de problemas con inteligencia artificial y análisis de datos</strong>. Implementación de modelos de Machine Learning para predicción y clasificación.</p>
-</div>
-</td>
-</table>
-
----
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AdolfoLecompteDev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E0E0E0&icon_color=BD93F9&ring_color=00FF9F" height="180" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdolfoLecompteDev&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E0E0E0" height="180" alt="Top Languages"/>
